@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DeliveryExecutiveApp</string>
+    <string name="userId">UserName</string>
+    <string name="Password">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+
+    <string name="btnavailable">Available</string>
+    <string name="btnnotavailable">NotAvailable</string>
+    <string name="performance">Performance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
