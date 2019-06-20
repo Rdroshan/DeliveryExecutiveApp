@@ -5,7 +5,7 @@ package com.example.adminpc.deliveryexecutiveapp;
  */
 
 public class Apis {
-    public static String BASE_URL="http://35.244.30.130:8081/qeats/v1";
+    public static String BASE_URL="http://<IP>:<PORT>/qeats/v1";
     public static String DELIVERY_SIGNIN = "/delivery/signin?";
     public static String DELIVERY_SIGNUP = "/delivery/signup/";
     public static String DELIVERY_ORDERS = "/delivery/orders?";
